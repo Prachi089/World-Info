@@ -1,0 +1,19 @@
+
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Bangalore"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9663545603"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "prachi@gmail.com"
+    }
+  ]
+  
