@@ -1,5 +1,6 @@
 # React CRUD App
-## Deploye Link : https://chimerical-queijadas-b1db98.netlify.app/home
+## Deploye Link : https://chimerical-queijadas-b1db98.netlify.app
+
 ## Overview
 This is a frontend web application built using React.js that performs full CRUD (Create, Read, Update, Delete) operations. The app allows users to manage data interactively with a clean and responsive UI. Additionally, it fetches interesting world facts from a real-time API.
 
